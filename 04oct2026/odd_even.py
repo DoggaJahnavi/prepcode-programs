@@ -1,0 +1,5 @@
+rollnumber=int(input("enter the rollnumber:"))
+if rollnumber % 2==0:
+    print("even number")
+else:
+    print("odd number")
