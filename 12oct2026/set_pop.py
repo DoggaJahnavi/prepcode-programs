@@ -1,3 +1,2 @@
 s={1,2}
-s.pop()
-print(s)
+print(s.pop())
