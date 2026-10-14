@@ -1,1 +1,1 @@
-print("_".join([]))
+print("_".join(["A","B","C"]))

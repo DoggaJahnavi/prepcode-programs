@@ -1,0 +1,1 @@
+print("a_b_c".partition("_"))

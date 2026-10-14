@@ -1,0 +1,1 @@
+print("hi".ljust(5))
