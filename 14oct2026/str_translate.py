@@ -1,0 +1,1 @@
+print("abc".translate(str.maketrans("abc","123")))
