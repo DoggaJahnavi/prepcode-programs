@@ -1,1 +1,1 @@
-print("hello".rstrip())
+print("hello".rstrip())                                 
